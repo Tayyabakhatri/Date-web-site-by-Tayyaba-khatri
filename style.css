@@ -1,0 +1,62 @@
+@font-face {
+    font-family: 'clash-disply';
+    src: url('fonts/ClashDisplay-Bold.otf');
+
+}
+
+@font-face {
+    font-family: 'poppins';
+    src: url('fonts/Poppins-Light.ttf');
+
+}
+
+
+body {
+
+    background-image: url(images/Dark\ Gradient\ 12.png);
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+
+#main-heading {
+    background: linear-gradient(90deg, #A734BD 0%, #FF006A 100%);
+    background-size: cover;
+    background-position: center;
+    background-color: text;
+    -webkit-background-clip: text;
+    color: transparent;
+    font-Weight: 700;
+    font-Size: 70px;
+    font-family: clash-disply;
+}
+
+#main-para {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-align: left;
+
+
+}
+
+#main-text {
+    width: 450px;
+}
+
+#cards {
+    width: 1200px;
+    /* background-color: #34213480; */
+    background: hsba(299, 37%, 20%, 0.5);
+
+    border: 1px solid;
+
+    border-image-source: linear-gradient(92.71deg, rgba(255, 255, 255, 0.18) 0%, rgba(255, 255, 255, 0.17) 100%);
+
+
+    
+}
+#h1{
+    font-size:50px;
+}
