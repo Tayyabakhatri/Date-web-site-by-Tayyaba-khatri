@@ -14,7 +14,7 @@
 
 body {
 
-    background-image: url(images/Dark\ Gradient\ 12.png);
+    /* background-image: url(images/Dark\ Gradient\ 12.png); */
     background-repeat: no-repeat;
     background-color: black;}
    
@@ -111,18 +111,21 @@ text-align: left;
     background-color: rgba(52, 33, 52, 0.4);
 
 }
-.r3{
+/* .r3{
     background-image: url(images/Ellipse\ 46.png); 
     background-repeat: no-repeat;
 }
 .r2{
     background-image: url(images/Ellipse\44.png);
-}
-.feedback{
+} */
+/* .feedback{
     background-image: url(images/Dark\ Gradient\ 12.png);
     background-repeat: no-repeat;
     display: flex;
     justify-content: right;
+} */
+.footer-bg{
+   background-color: rgba(52, 33, 52, 0.5);
 }
    
 
