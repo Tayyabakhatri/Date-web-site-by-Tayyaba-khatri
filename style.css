@@ -1,3 +1,6 @@
+@import url(FAQ.style.css); 
+@import url(press.style.css);
+
 @font-face {
     font-family: 'clash-disply';
     src: url('fonts/ClashDisplay-Bold.otf');
