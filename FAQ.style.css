@@ -1,0 +1,21 @@
+#about-first-card{
+    background-color: rgba(52, 33, 52, 0.5);
+   
+
+    border-image-source: linear-gradient(92.71deg, rgba(255, 255, 255, 0.18) 0%, rgba(255, 255, 255, 0.17) 100%);
+    border: 1px solid ;
+    border-radius: 20px;
+    
+   }
+   #faqs{
+    border-color: rgba(52, 33, 52, 0.5);
+    border: 1px solid ;
+    background: rgba(52, 33, 52, 0.5);
+
+    
+    border-radius: 20px;
+   }
+.body{
+    background-color: #1d0212;
+    background-image: images/Ellipse 43.png;
+}
